@@ -1,0 +1,1 @@
+module.exports = [{bairro: 'Uvaranas', rua: 'João Holzmann', numero: '55' }]
